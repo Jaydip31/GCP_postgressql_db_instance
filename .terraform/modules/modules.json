@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"postgresql","Source":"./modules/postgresql","Dir":"modules/postgresql"},{"Key":"postgresql.sql-db_postgresql","Source":"registry.terraform.io/GoogleCloudPlatform/sql-db/google//modules/postgresql","Version":"15.1.0","Dir":".terraform/modules/postgresql.sql-db_postgresql/modules/postgresql"}]}
